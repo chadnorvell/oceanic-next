@@ -5,7 +5,7 @@
 
 " {{{ Colors
   let s:base00=['#1b2b34', '235']
-  let s:base01=['#313138', '237']
+  let s:base01=['#293037', '237']
   let s:base02=['#4f5b66', '240']
   let s:base03=['#65737e', '243']
   let s:base04=['#a7adba', '145']
